@@ -1,4 +1,4 @@
-#Speaker
+#Speaker_used_for_windows
 import win32com.client as wincl
 import time
 
